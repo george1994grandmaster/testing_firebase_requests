@@ -1,0 +1,22 @@
+{
+      "users": [
+        {
+          "name": "John Doe",
+          "age": 25,
+          "email": "johndoe@example.com",
+          "city": "New York"
+        },
+        {
+          "name": "Jane Smith",
+          "age": 30,
+          "email": "janesmith@example.com",
+          "city": "Los Angeles"
+        },
+        {
+          "name": "Alex Johnson",
+          "age": 28,
+          "email": "alexjohnson@example.com",
+          "city": "Chicago"
+        }
+      ]
+    }
